@@ -8,5 +8,5 @@ This is build using Python and Pygame library.
 ## Screenshots
 
 
-![Getting Started](./gallery/sprites/flappy_pic.png)
-![Getting Started](./gallery/sprites/flappy_pic2.png)
+![Getting Started](./flappy_pic.png)
+![Getting Started](./flappy_pic2.png)
